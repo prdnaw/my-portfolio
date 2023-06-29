@@ -1,0 +1,18 @@
+{
+    "asset": {
+        "image": "assets/image/self.jpg",
+        "text": [
+            "Hello my name Ichsan Wahyu Pradana",
+            "I am a Quality Assurance Engineer & Software Engineer",
+            "See you in the air!"
+        ]
+    },
+    "social": [
+        {"asset": "discord", "color": "#7289da", "payload": "prdnaw#1687", "type": "text"},
+        {"asset": "github", "color": "#ffffff", "payload": "https://www.github.com/prdnaw", "type": "link"},
+        {"asset": "linkedin", "color": "#0072c6", "payload": "https://www.linkedin.com/in/ichsanwahyupradana/", "type": "link"},
+        {"asset": "outlook", "color": "#0072c6", "payload": "ichsanwahyupradana@gmail.com", "type": "mail"},
+        {"asset": "fb", "color": "#4267B2", "payload": "https://www.facebook.com/ichsan.wahyuu", "type": "link"},
+        {"asset": "ig", "color": "#C13584", "payload": "https://www.instagram.com/prdnaw/", "type": "link"}
+    ]
+} 
