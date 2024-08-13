@@ -13,6 +13,7 @@
         {"asset": "linkedin", "color": "#0072c6", "payload": "https://www.linkedin.com/in/ichsanwahyupradana/", "type": "link"},
         {"asset": "outlook", "color": "#0072c6", "payload": "ichsanwahyupradana@gmail.com", "type": "mail"},
         {"asset": "fb", "color": "#4267B2", "payload": "https://www.facebook.com/ichsan.wahyuu", "type": "link"},
-        {"asset": "ig", "color": "#C13584", "payload": "https://www.instagram.com/prdnaw/", "type": "link"}
+        {"asset": "ig", "color": "#C13584", "payload": "https://www.instagram.com/prdnaw/", "type": "link"},
+        {"asset": "tiktok", "color": "#C13584", "payload": "https://www.tiktok.com/@prdnaw", "type": "link"}
     ]
 } 
